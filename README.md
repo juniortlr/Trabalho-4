@@ -1,4 +1,4 @@
-# Trabalho-4 IR e RELÉ
+# IR e RELÉ
 O objetivo do 4o trabalho é o desenvolvimento de habilidades relacionadas ao 
 uso elementos externos (motores, por exemplo) comandados por um 
 microcontrolador. 
